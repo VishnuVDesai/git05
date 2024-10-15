@@ -4,8 +4,3 @@ merge feature-branch with commit message
 new lines added to merge file
 
 
-
-
-vishnu is adding a new line in branch festure and then merging to master 
-
-new merge line added
